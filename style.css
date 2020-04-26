@@ -171,3 +171,9 @@ nav a:hover::before {
     border:2px solid #000;
     color:#000;
 }
+.skills h1{
+    background:blanchedalmond;
+}
+.about-me h2{
+    background:blanchedalmond;
+}
