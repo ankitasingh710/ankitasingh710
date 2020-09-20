@@ -9,7 +9,7 @@ body
 #header
 {
     height:100vh;
-    background-image:linear-gradient(rgba(0,0,0,0.3),rgba(0,0,0.3)),url("images/bg6.jpg");
+    background-image:linear-gradient(rgba(0,0,0,0.3),rgba(0,0,0.3)),url("my images/bg6.jpg");
     
     background size:cover;
     
@@ -86,7 +86,7 @@ nav a:hover::before {
 }
 .hexagon{
   clip-path: polygon(50% 0, 100% 25%, 100% 75%, 50% 100%, 0 75%, 0 25%);
-  background: url("images/ankita1.jpg") ;
+  background: url("my images/ankita1.jpg") ;
   background-size: cover;
   margin: auto ;
   height: 300px;
